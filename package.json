@@ -1,0 +1,26 @@
+{
+  "name": "linkedin-bot",
+  "version": "1.0.0",
+  "description": "script that will automatically request connections on linkedin",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Internetix/linkedin-bot.git"
+  },
+  "keywords": [
+    "linkedin-bot"
+  ],
+  "author": "mr-internetix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mr-Internetix/linkedin-bot/issues"
+  },
+  "homepage": "https://github.com/Mr-Internetix/linkedin-bot#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.3.2"
+  }
+}
