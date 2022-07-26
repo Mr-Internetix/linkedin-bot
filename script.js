@@ -29,10 +29,10 @@ async function login(page){
     
   Promise.all([
   // username
-  await page.type('#username','yadavajit8916@gmail.com'),
+  await page.type('#username','email here '),
 
   // password 
-  await page.type('#password','W,Jc99r7CU7hv/_'),
+  await page.type('#password','password here'),
 
   // submit 
   await page.click('[type="submit"]'),
